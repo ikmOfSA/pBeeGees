@@ -3,4 +3,5 @@ This project is wholely based on the github.com/relab/hotstuff[1] project, the m
 
 
 [1]github.com/relab/hotstuff
+
 [2]Neil Giridharan, Florian Suri-Payer, Matthew Ding, Heidi Howard, Ittai Abraham, and Natacha Crooks. 2023. BeeGees: Stayin' Alive in Chained BFT. In Proceedings of the 2023 ACM Symposium on Principles of Distributed Computing (PODC '23). Association for Computing Machinery, New York, NY, USA, 233–243. https://doi.org/10.1145/3583668.3594572
